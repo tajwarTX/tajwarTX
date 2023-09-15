@@ -1,7 +1,7 @@
 ![bg](https://github.com/tajwarTX/tajwarTX/assets/136412241/e482fbf1-84e1-47f8-b4ca-17d28a766cde)
 <h1 align="center">Heyyy, I'm Mahir Tajwar</h1>
 <h3 align="center">Life disappoints</h3>
-<img align="right" alt="bleh" width="350" src="https://github.com/tajwarTX/tajwarTX/assets/136412241/444c58b4-6b34-404e-9a66-b4f1f78599e6">
+<img align="right" alt="bleh" width="300" src="https://github.com/tajwarTX/tajwarTX/assets/136412241/444c58b4-6b34-404e-9a66-b4f1f78599e6">
 
 
 
