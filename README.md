@@ -1,5 +1,9 @@
 <img align="center" alt="bleh" width="1000" src="https://github.com/tajwarTX/tajwarTX/assets/136412241/8ee685d1-03b4-4f14-8162-1be0f85efe12">
 <h1 align="left">Heyyy, I'm Mahir Tajwar</h1>
+<h4 align="left">A ROBOTICS ENTHUSIAST with a knack for building innovative robots. From tinkering with electronics to coding intricate algorithms, my passion for robotics has been my guiding light.
+My journey began with simple kits and evolved into complex creations.</h1>
+<h6 align="left">My dedication to robotics has led me to excel in national and international competitions, earning medals and recognition for my achievements. I'm pursuing my education at Mirzapur Cadet College.
+ I strive for excellence and innovation with every project, eager to see where this exciting journey will take me next.</h1>
 <img align="left" alt="bleh" width="330" src="https://github.com/tajwarTX/tajwarTX/assets/136412241/444c58b4-6b34-404e-9a66-b4f1f78599e6">
 
 
