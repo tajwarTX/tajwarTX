@@ -1,4 +1,4 @@
-![bg](https://github.com/tajwarTX/tajwarTX/assets/136412241/4666eb43-c05a-4d87-ac96-61726162fdf6)
+<img align="center" alt="bleh" width="1000" src="https://github.com/tajwarTX/tajwarTX/assets/136412241/4666eb43-c05a-4d87-ac96-61726162fdf6">
 <h1 align="center">Heyyy, I'm Mahir Tajwar</h1>
 <h3 align="center">Life disappoints</h3>
 
