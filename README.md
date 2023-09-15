@@ -1,6 +1,7 @@
-<img align="center" alt="bleh" width="1000" src="https://github.com/tajwarTX/tajwarTX/assets/136412241/4666eb43-c05a-4d87-ac96-61726162fdf6">
+<img align="center" alt="bleh" width="1000" src="https://github.com/tajwarTX/tajwarTX/assets/136412241/8ee685d1-03b4-4f14-8162-1be0f85efe12">
 <h1 align="left">Heyyy, I'm Mahir Tajwar</h1>
 <img align="left" alt="bleh" width="330" src="https://github.com/tajwarTX/tajwarTX/assets/136412241/444c58b4-6b34-404e-9a66-b4f1f78599e6">
+
 
 <h3 align="right">Connect with me:</h3>
 <p align="right">
